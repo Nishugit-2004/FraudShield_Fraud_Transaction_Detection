@@ -1,4 +1,4 @@
-🚨 AI-Driven Fraud Detection in Personal Transactions
+🚨 AI-Driven Fraud Detection and Prevention in Personal Transactions
 
 An intelligent full-stack web application that predicts whether a personal financial transaction is genuine or suspicious using Machine Learning.
 
